@@ -37,3 +37,6 @@ RESUME_SCREENING_AI/
 ├── job_description.txt
 ├── requirements.txt
 └── README.md
+
+## 🌐 Live Demo
+[Click here to view the app](https://ai-resume-screening-app-sarvani-pinisetti.streamlit.app/)
