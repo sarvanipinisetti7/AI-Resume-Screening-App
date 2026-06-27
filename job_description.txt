@@ -1,0 +1,28 @@
+job description
+
+Role: Data Analyst
+
+Required Skills:
+Python
+SQL
+Excel
+Pandas
+Machine Learning
+Power BI
+Data Analysis
+Data Visualization
+
+Soft Skills:
+Problem Solving
+Communication
+Team Collaboration
+Analytical Thinking
+
+Experience:
+Knowledge of data analysis and machine learning projects.
+
+Responsibilities:
+Analyze data
+Clean datasets
+Create reports and dashboards
+Use Python libraries for data processing
